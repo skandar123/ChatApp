@@ -96,7 +96,7 @@ Run with:
 
     mvn spring-boot:run -Dspring-boot.run.profiles=mysql
 
-3. **Start the application** 
+3. **Start the application**
 
 
     mvn spring-boot:run
@@ -151,14 +151,6 @@ Default role for new users: ROLE_USER
 3. Log in with User B in another browser → connect to chat
 4. Select User B in User A’s list and send a message
 5. See real-time message delivery through WebSockets
-
-### 📸 Screenshots
-
-* Login Page
-* Register Page
-* Chat UI with contacts + messages
-
-_(Add screenshots here if needed)_
 
 ### 👩‍💻 Author
 
